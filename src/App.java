@@ -6,7 +6,6 @@ public class App {
 
     public static void main(String[] args) throws Exception {
         // The first Monday of the first TB of 2023 is probably the 9th of January
-        //test commit 2
         System.out.println("-----------------------------------------------");
         System.out.println("is the 13th of December a WFH day? " + resolveWfhDay(13,12,2022));
         System.out.println("is the 16th of December a WFH day? " + resolveWfhDay(16,12,2022));
